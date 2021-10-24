@@ -1,0 +1,26 @@
+#Writing brief description of all the below commands.
+
+Git Pull : It updates the current local working branch remotely.
+
+Git Push : It upload our local files to a remote repository.
+
+Git Merge : We can merge our branches in only one branch by using this command .
+
+Git Log : It shows our all commits .
+
+Git status : By using this command it can be read everything that happens to a git repository.
+
+Git commit : It gives messege to those files which moves from unstaging to staging area.
+
+Git init : It initialized empty git repository in our working directory and also Its a 1st way to start a new project.
+
+Git clone : It creats a copy of the file on Github.
+
+Git branch : This shows how many branchs we have created .
+
+Git checkout : Switching one branch to another branch by using this command.
+
+
+
+
+
